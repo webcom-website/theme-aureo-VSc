@@ -1,0 +1,21 @@
+{
+    "name": "andminin",
+    "displayName": "aureo",
+    "description": "warm, dark and visually pleasing theme, ideal for working with inspiration",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "aureo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aureo-color-theme.json"
+            }
+        ]
+    }
+}
